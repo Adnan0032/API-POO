@@ -1,1 +1,1 @@
-![Build Status](https://github.com/username/repo/actions/workflows/maven.yml/badge.svg)
+![Build Status](https://github.com/Adnan0032/repo/actions/workflows/maven.yml)
